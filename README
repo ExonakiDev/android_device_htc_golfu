@@ -14,8 +14,9 @@ Copyright (C) 2012 Munjeni
 
 * Description
 
-  This repository is for CM9 on HTC golfu.
-  It is still a work in progress.
+  This repository is for CM9 on HTC golfu(Desire C).
+  It is still a work in progress as a WIFI Module is missing from the kernel source code-'ath6kl_sdio.ko'.
+  
 
 
 * How To Build CM9 for HTC golfu
